@@ -1,0 +1,496 @@
+<resources>
+    <string name="app_name">Effervescence\'15</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string name="title_activity_eventsbycategory">Eventsbycategory</string>
+    <string name="title_activity_music">Music</string>
+    <string name="title_activity_events_by_day">EventsByDay</string>
+    <string name="title_activity_dance">Dance</string>
+    <string name="title_activity_ams">AMS</string>
+    <string name="title_activity_management">Management</string>
+    <string name="title_activity_literary">Literary</string>
+    <string name="title_activity_informal">Informal</string>
+    <string name="title_activity_drama">Drama</string>
+    <string name="title_activity_fineart">Finearts</string>
+    <string name="title_activity_online">Online</string>
+    <string name="title_activity_about">About</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_contact">Contact</string>
+    <string name="rate">Rate Us</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_events_sample">EventsSample</string>
+    <string name="title_activity_events_karaoke">Karaoke</string>
+    <string name="title_activity_events_incendiary">Incendiary</string>
+    <string name="title_activity_events_gullycricket">GullyCricket</string>
+    <string name="title_activity_events_roadies">Roadies</string>
+    <string name="title_activity_events_treasurehunt">TreasureHunt</string>
+    <string name="title_activity_events_gamersasylum">GamersAsylum</string>
+    <string name="title_activity_events_blinddate">BlindDate</string>
+    <string name="title_activity_events_innovation">Innovation</string>
+    <string name="title_activity_events_bindaasbol">BindaasBol</string>
+    <string name="title_activity_events_directorscut">DirectorsCut</string>
+    <string name="title_activity_events_doubletrouble">DoubleTrouble</string>
+    <string name="title_activity_events_tonguesonfire">TonguesOnFire</string>
+    <string name="title_activity_events_mun">MUN</string>
+    <string name="title_activity_events_cognoscencia">Cognoscencia</string>
+    <string name="title_activity_events_crossfire">Crossfire</string>
+    <string name="title_activity_events_dumbcarades">DumbCarades</string>
+    <string name="title_activity_events_feathers">Feathers</string>
+    <string name="title_activity_events_caricature">Caricatures</string>
+    <string name="title_activity_events_onlineeventfa">OnlineEvent_FA</string>
+    <string name="title_activity_events_storypic">StoryPic</string>
+    <string name="title_activity_events_graffiti">Graffiti</string>
+    <string name="title_activity_events_perplexus">Perplexus</string>
+    <string name="title_activity_events_platzen">Platzen</string>
+    <string name="title_activity_events_stegolica">Stegolica</string>
+    <string name="title_activity_events_konqueror">Konqueror</string>
+    <string name="title_activity_events_lafrenze">lafrenze</string>
+    <string name="title_activity_events_carpediem">CarpeDiem</string>
+    <string name="title_activity_events_footloose">Footloose</string>
+    <string name="title_activity_events_unplugged">Unplugged</string>
+    <string name="title_activity_events_psychadelia">Psychadelia</string>
+    <string name="title_activity_events_antakshiri">Antakshiri</string>
+    <string name="title_activity_events_dancecharades">Dance Charades</string>
+    <string name="title_activity_events_kahaani">Kahaani</string>
+    <string name="title_activity_events_tooncon">ToonCon</string>
+    <string name="title_activity_events_theSketchers">TheSketcher</string>
+    <string name="title_activity_events_showoff">ShowOff</string>
+    <string name="title_activity_events_alamode">AlaMode</string>
+    <string name="title_activity_events_lightscameraaction">LightsCameraAction</string>
+    <string name="title_activity_events_animequiz">AnimeQuiz</string>
+    <string name="title_activity_events_tvquiz">TVseriesQuiz</string>
+    <string name="title_activity_events_chinatown">ChinaTown</string>
+    <string name="title_activity_events_cricketquiz">CrickeQquiz</string>
+    <string name="title_activity_events_bollywoodtambola">BollywoodTambola</string>
+    <string name="title_activity_events_balloonfight">BalloonFight</string>
+    <string name="title_activity_events_tugofwar">TugofWar</string>
+    <string name="title_activity_events_cinemamash">Cinemamash</string>
+    <string name="title_activity_events_streetsoccer">StreetSoccer</string>
+    <string name="title_activity_events_paanipuri">Paanipuri</string>
+    <string name="title_activity_events_bookcricket">BookCricket</string>
+    <string name="title_activity_events_pillowfight">PillowFight</string>
+    <string name="title_activity_events_photobooth">Photobooth</string>
+    <string name="title_activity_events_ranneeti">Ranneeti</string>
+    <string name="title_activity_events_intuizone">Intuizone</string>
+    <string name="title_activity_events_tasveer">Tasveer</string>
+    <string name="title_activity_events_selfietime">SelfieTime</string>
+    <string name="title_activity_events_snapshot">Snapshot</string>
+    <string name="title_activity_events_admania">AdMania</string>
+    <string name="title_activity_events_bquiz">BQuiz</string>
+    <string name="title_activity_events_basketball">Basketball</string>
+    <string name="title_activity_events_armwrestling">ArmWrestling</string>
+    <string name="title_activity_events_silver">Silver</string>
+    <string name="title_activity_events_celeb">Celebrity</string>
+    <string name="title_activity_events_edm">Edm</string>
+    <string name="title_activity_events_djnight">Djnight</string>
+    <string name="title_activity_proshows">Proshows</string>
+
+
+
+    <string name="rules">Rules and Guidelines</string>
+    <string name="title_activity_favorites">Favorites</string>
+    <string name="examplerule">• foo efeve ergwerg ewrgeg ewrgerwg wreger gewrgg erg\n • foo efeve ergwerg ewrgeg ewrgerwg wreger gewrgg erg\n • foo efeve ergwerg ewrgeg ewrgerwg wreger gewrgg erg\n
+    • foo efeve ergwerg ewrgeg ewrgerwg wreger gewrgg erg\n • foo efeve ergwerg ewrgeg ewrgerwg wreger gewrgg erg\n • foo efeve ergwerg ewrgeg ewrgerwg wreger gewrgg erg\n</string>
+    <string name="abouteffe">Effervescence is a platform of youthful energy showcasing intellectuals, creativity and a cultural treat. The cultural and managerial spirits mingle to bring forth the Fizz, Frolic and Festivity of this extravaganza. Effervescence is a cultural extravaganza spanning 3 days of high octane action. The three days of campus events which comprise of informal and other events in the morning and to hold the night fever we have a full platter of dance, dramatics, music and literary competitions. The concluding night of the Effervescence is always the most anticipated and illustrious event which has seen bands like Bombay Vikings, Euphoria, Silk Route and Strings (to name a few) performing live. This Effervescence is going to take the definition of fun to a whole new dimension! So, don’t wait anymore. Join us this October in celebrating the occasion of absolute fun and entertainment. Management events, workshops, informals, dance, drama, music, rock night, celebrity night, etc. Pick up anything you are interested in!! There’s something for everyone. So, block your calenders from 15th October TO 18th October and be a part of Effervescence.</string>
+    <string name="credits">Credits</string>
+    <string name="registration">Registration</string>
+    <string name="title_activity_set_notification">SetNotification</string>
+    <string name="title_activity_display_notification">DisplayNotification</string>
+    <string name="title_activity_splash">Effervescence\'15</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_silver_screen">SilverScreen</string>
+    <string name="imdb"><b>IMDb</b></string>
+    <!--about events-->
+    <string name="about_anime">All Naruto, One Piece and DBZ fans, get going and be ready to live up to your fantasy and prove that you are the biggest anime freak!! Dattebayo!!</string>
+    <string name="about_alamode"> It is your chance to set the stage on fire with your elegance, compassion and professionalism. If you are a total fashion freak, come lead the trend with your creativity and moves.</string>
+    <string name="about_antakshiri">"Music speaks what cannot be expressed, soothes the mind and gives it rest, heals the heart and make it whole, flows from heaven to the soul!" Virtuosi presents the most enthralling and lively event of IIITA, ANTAKSHARI. For those who never sing, but die with all their music in them, this is the right chance to show their never ending love for music. "Music is your own experience, your thoughts, your wisdom!" Just live it to the fullest! "With no fear, just lose yourself and go into the deep ocean of melodies!</string>
+    <string name="about_balloonfight">A balloon will be tied to each leg of every participant. Players will try to burst balloons tied to the players of the opposite teams while trying to save balloons of their teammates while remaining in the boundary circle. A player will have to exit the circle if his both balloons are burst. In each match, time taken by a team to burst all the balloons of the opponent team will be noted down. Winners will be decided on the basis of this time. Burst the balloon tied to your opponent’s leg while saving the one tied to your leg. Participate in a group of 5.</string>
+    <string name="about_bindaasbol">A variation of Nukkad Natak(Street Play), Bindas Bol features outspoken acts. The participants are given complete freedom over the subject of their play in this informal event. The champions of Bindass Bol are awarded with lucrative gifts.</string>
+    <string name="about_blinddate">Ever dared of thinking that you can challenge the much clichéd love story of Romeo n Juliet, Adam n Eve, Heer n Ranjha and get your name registered in the lineage with your perfect companion. Bring out the cupid inside and unveil the passionate chemistry with your date on a date with BLIND DATE.It is the best place for singles to try their luck with some fun and unique date ideas. At the same time, couples can spend time together in various fun activities and know how much they complement, co-ordinate and how well they know each other.</string>
+    <string name="about_bollywoodtambola">BOLLYWOOD TAMBOLA...delves into the world of Bollywood. Its an interactive quizzing extravaganza that would test your knowledge about bollywood movies, songs, dialogues, actors and much more. Stuffed with spicy flavours of movies, this event will take you to another level of fun, frolic and excitement. If garnished with perfect ratio of speed, knowledge and co-ordination, then you could experience the ultimate taste of victory.</string>
+    <string name="about_bookcricket">A timepass game played in school involving a large book being opened randomly, and artificial cricket scores constructed through a sequence of rules. \n Arguably the most favourite game played by students during \'free period\' or during class by \'back-benchers.\'</string>
+    <string name="about_carpediem">It is the solo dance competition where the participants set the stage on fire.</string>
+    <string name="about_chinatown">This Effe China Town brings to you a some very exciting events! Raise the stakes, put on your pokerface and set the scene for an unforgettable casino experience. So be ready and gamble to galore. All are invited! Or why not just follow your instincts? Do your calculations, make sensible guesses or may be get your own octopus Paul to bid on any contestant or team which you think has the potential of winning some event . If the team/contestant you bid on wins , then you have a chance of making loads of money . So, what if you can\'t do the ramp walk , what if you can\'t play street soccer , what if you are not a gamer, you can still win money.</string>
+    <string name="about_cinemamash"> Okay so you love dubsmash, right? And you love Bollywood too. Then, we bring you the platform to showcase your talent at desi dialogues and songs. Go, Enjoy and show you have a star in you too and win exciting prizes.</string>
+    <string name="about_cognoscencia">Sarasva, the literary society, IIIT Allahabad presents Congnoscentia. The annual mega debate that brings together best quizzing minds from across the state and the counStry. With priceless moments and nerve wreaking tie breakers Cognoscentia leaves you asking for more. And with the huge cash prizes up for grabs you wouldn’t want to miss this one.</string>
+    <string name="about_cricketquiz">India is a country of cricket fanatics. So take a shot at our quiz and check where you stand.</string>
+    <string name="about_dancecharades">Each teams should have 3 members.\nEach member of the team has to perform.\nThere will be three rounds on the basis of difficulty.\nIf the time limit exceeds (different for each round) zero points will be awarded.\nAny kind of speaking, signaling, etc. during your turn will result to the direct disqualification of the team.</string>
+    <string name="about_directorscut">It is a group event of maximum 2 people. One has to paint the ideas and another has to pen it down. The best will be selected and awarded the prize money.</string>
+    <string name="about_doubletrouble">This is an event to discover the most talented duo in the fest. There will be couplet participation. The objective of this event is to find the imagination, creativity, and flexible ways of thinking among the participants. The reason of forming couplet at the time is to find their adaptability among them. The event consists of various rounds which include the activities like spoofing, dramatic activities, questionarre. By short listing, the couplet in different rounds will be selected.</string>
+    <string name="about_dumbcharades">Dumb Charades is a word guessing game. In the form most played today, it is an acting game in which one player acts out a word or phrase, often by miming similar-sounding words, and the other players guess the word or phrase. The idea is to use physical rather than verbal language to convey the meaning to another party.</string>
+    <string name="about_feathers">This October let your creativity take center-stage. Put your writing talent to use at Feathers, the biggest writing contest at IIIT Allahabad. Get to personally interact with the judges and get your work reviewed by some of the best writers. Winners will also get super exciting cash prizes.</string>
+    <string name="about_footloose">It is a Team Dance Event .</string>
+    <string name="about_gamersasylum">Every age has its storytelling form, and gaming is a huge part of our culture. You can ignore or embrace games and imbue them with the best artistic quality. People are enthralled with gaming in the same way as other people love the cinema or theatre.So, this EFFE , come and game on.Showcase your gaming skills with these 4 epic games :\n• Counter Strike 1.6\n• Dota 2\n• Split Second\n• Fifa 15</string>
+    <string name="about_grafitti">A event will be conducted in which participants have to use color spray to transform thereideas into reality. The event will be theme based. The best two will be selected and awarded the prize money.</string>
+    <string name="about_gullycricket">Street cricket or gully cricket is a stripped-down version of the international sport of cricket.</string>
+    <string name="about_incendiary">Rock is a musical freedom. It\' saying, doing and playing what you want. Freedom from pain, suffering and the external world, that\'s pretty close to my defination of rock. For all rock lovers, Virtuosi presents "Incendiary, the rock night". From Indie rock to metal , all are invited.</string>
+    <string name="about_innovation">It is the main dramatics event conducted during effervescence. Each team should have at least 6 participants and cannot exceed 20 .Preliminary auditions may be conducted.The winners of this event are awarded with cash prizes and certificates.Venue for auditions: Dramatics Room CC-3 , Indian Institute of Information Technology -Allahabad.</string>
+    <string name="about_intuizone">When a management team with a reputation for brilliance tackles a business with a reputation of bad economics, it is the reputation of the business that remains intact.</string>
+    <string name="about_kahaani">It is a script writing event organised by the club to bring into action the writer behind every student. They will have an opportunity to showcase their ability by writing a script that depicts their real talents. Submissions of scripts will me made online. Best 3 scripts will be awarded with prizes.\nto be updated soon</string>
+    <string name="about_lafranze">It is one of the most electrifying, enthralling event of the Dance Club, the duet dance competition.</string>
+    <string name="about_lightscamera">About: As this EFFE has Bollywood theme, this event will give you a chance to show all your talents and skills related to Bollywood.Performances includes:\n • Honest bollywood movie reviews\n • Surprise ending of Bollywood movie\n • Mimicry\n • Enacting any scene from a Bollywood movie</string>
+    <string name="about_karaoke">"There"s music in the sighing of a reed; There"s music in the gushing of a rill; There"s music in all things, if men had ears: Their earth is but an echo of the spheres. " Music is love in search of a word .There is nothing in the world so much like prayer as music is. Its the only thing that can make snivel without vindication. Virtuosi presents the musical challenge Melodieux, the rhythmic war of excellence. We are here to unravel the likes of Latas, Sunidhis, Kks, Sonus, Atifs and Kishores. It expresses feelings and thought, without language, it was below and before speech, and it is above and beyond all words.Similar feelings spontaneously flows through populace in IIIT-A at the MELODIEUX. The singers storm troops the audience with their euphonious voice while the Duet asphyxiates the remaining . With a bountiful over enthusiastic participation of many highly proficient vocalists, the event easily becomes an inexplicable call.</string>
+    <string name="about_konquorer">Ahoy comrades! This is an online treasure hunt event where you have to fight for the ultimate crown and solve all the questions to win the grand prize.</string>
+    <string name="about_mun">An idea conceived over many cups of coffee and after several discussions, IIITA MUN is a format of debate wherein participants exercise the roles of nations and deliberate over pressing issues that shape our day to day lives as citizens of this world. Organizing this conference for the second time, we are simulating two councils – the UN Security Council and the General Assembly.</string>
+    <string name="about_pannipuri">Get ready to smack the most delicious and famous Indian dish “PAANIPURI”!! Show your zest and mania for golgappe by drubbing other fanatics and turn into ZEALOT of paanipuri.</string>
+    <string name="about_perplexus">There are 25 pedestals and the victory in each battle you fight at every pedestal brings you to the hall of FAME. Rectitude, Wits and Humour form the prerequisites. Guessing will not help. If you have the right answer you will know for sure that you have it. Clues towards solving puzzles may be hidden anywhere in the website, be it the source code or the page title. Hints provided in the source may not necessarily take you in the right direction. </string>
+    <string name="about_photobooth">Do props excite you? Do frames amaze you? Or maybe you like making funny faces, be it a duck face, pout or perhaps even a poker face while posing for photographs? Then Photobooth is the event for you. Brace yourselves for you are going to have one hell of a time at Effe 15.</string>
+    <string name="about_pillowfight">The oh-so-common sport that is usually played on bed comes with a \'twist\'. Contestants will take each other 1 on 1 and they will both sit on a rod elevated over ground. Both have the aim to make the \'other\' player fall from the rod to ground covered with mattresses by using Pillows.</string>
+    <string name="about_platzen">This is an event of numbers and ciphers. You will be given an encrypted message along with a key and a little bit of our support in form of hints for the problem. And all you have to do is to figure out the original message. So get ready for some cryptography. </string>
+    <string name="about_psychadelia">Great music is that which penetrates the ear with ease and leaves the memory with difficulty. But magical music is one with which never leaves the memory.The participants create an aura of mystic notes and octaves. They teach us that music is a moral law.</string>
+    <string name="about_ranneeti">Any human can make things bigger, more complex, and more violent. It takes a touch of genius-and lot of courage-to move in the opposite direction. Management is a necessary evil of any business. It provides the leadership and administration that will ensure that the organization runs the way that it should.Management is doing things right; leadership is doing the right things.</string>
+    <string name="about_roadies">Remake of the popular TV show, Roadies is not where you\'ll score brownie points if you just sing or dance. It is not some talent hunt contest where a shimmy-shake or a dance move or two will help you win. We are not looking for some gifted idols here. This is a battle that will test your brawn and wits until there are none left. This is where you leave that \"I\'m so cool\" attitude at home. The journey is full of interesting tasks and if you\'ve already accepted defeat and thinking of calling it quits, why don\'t you send your enemies instead, we\'ll do the dirty job for you. So if you think you have the guts to survive in this game that requires a never-say-die spirit, then Come and be a part of IIIT-A Roadies and experience the real thing.</string>
+    <string name="about_showoff">An online event, requires you to upload your dance video.</string>
+    <string name="about_stegolica">“Come in close, because the closer you look the less you see”. Hiding and concealing information is not a new thing. From Galileo to Leonardo da Vinci, everyone has done it in their work. Do you know what is more fun than concealing?? Yes, you guessed it right. Its the art of finding out the concealed information. And if you are one of those who love such stuffs, then stegolica is just the event for you. Stegolica is an online event of steganography or the art of hiding information in various forms.</string>
+    <string name="about_storypic">It is a group event of maximum 2 people. One has to paint the ideas and another has to pen it down. The best will be selected and awarded the prize money. </string>
+    <string name="about_streetsoccer">\“Everything you want is on the other side of fear\”. Enthusiasm , Compassion ,Energy , Dedication and Love towards the game,Freestyle,Fun are some of the little receipe that makes up \'STREET SOCCER\'. So guys get ready for the mashup and war to reach on the TOP. Battles will be fought everyday to stride forward and be on the TOP.There will be losses and victories. Some will be motivated and some will be demotivated. So guys gearup for the war to come because its goona be intense and hard. So give it your all because its goona be \'DO OR DIE\'.</string>
+    <string name="about_thesketcher">An Event will be conducted on Facebook Page of Effervescence. Students from around the world will be able to participate in this event. The event will be theme based. The best will be selected and awarded the prize money. </string>
+    <string name="about_tonguesonfire">An informal event to bring out the real leg pulling ability of people in front of their opponents.</string>
+    <string name="about_tooncon">The participant have to draw the cartoon sketches. The event has no pre-defined theme. The best will be selected and awarded the prize money.</string>
+    <string name="about_treasurehunt">You’ll see some rhyme and you will see some reason. Treasure Hunt is the game to play.So join the search, there’s nothing to lose. So Boot Up for the hunt, find the hidden clues and win a grand prize at end.</string>
+    <string name="about_tugofwar">The objective of the game is for each team to pull the rope along with the members of opposition team to their side. As soon as the second mark on the rope from the center red mark crosses over to center line, the team to pull the rope to their area wins the game.</string>
+    <string name="about_tvquiz">To all TV series freaks out there !! We provide you a great platform to prove yourself as the biggest TV series maniac. Come With your friends and fulfill your compassion towards the most famous TV series.</string>
+    <string name="about_unplugged">Tone down the distortion, let the unadulterated melody of the strings take control in this Western Acoustic event. No technical snags, no loud sounds . Just pull the plug and find yourself in solace with the melody of the rhythm. We ensure that you will be unplugged from the rest of the world by the magic of sur, raaga and dhun.</string>
+    <string name="about_tasveer">Photography is the only language that can be understood anywhere in the world.\n People believe that photography teaches us a lot about life. Life is about the darkness and the light at the end of the black tunnel. It is about our surroundings, how we see things around us. It is a photograph that captures every moment, every emotion, even for a silhouette.</string>
+    <string name="about_selfietime">Take a selfie.</string>
+    <string name="about_snapshot">The Beauty of Expressions \n
+    \n • Categories for the event:
+    \n1) Memorable Picture
+    \n2) Delightful Picture
+    \n3) Craziest Picture
+    \n• The picture must be of EFFERVESCENCE\'15</string>
+    <string name="about_admania">Are you an Ad-Maniac? Are you confident you know each and every ad on the TV? Here is your chance to test and prove yourself! This is for those who don\'t mute their television sets while the ads come. Nothing is more efficient than creative advertising. Creative advertising is more memorable, longer lasting, works with less media spending, and builds a fan community...faster. Ad maniac should know how to advertise your product. If people aren\’t going to talk about your product, then it\’s not good enough. </string>
+    <string name="about_bquiz">Business is a game, played for stakes, and you’re in competition with experts. If you want to win, you have to learn to be the master of the game. You are not entitled to your opinion. You are entitled to your informed opinion. No one is entitled to be ignorant.</string>
+    <string name="about_basketball">Considered to be the number one team sport in the world, 3x3 basketball is increasingly playing an influential part for the development of basketball worldwide.</string>
+    <string name="about_armwrestling">\"Arm wrestling\“ a game of strength, power and stamina. For those who want to test their physical and mental limits. It may be played from one hand but everything from your sitting style to your hand grabbing style matters here.This event aims to find the best in this art , where brute is not only thing that matters.</string>
+    <string name="about_silver">For all the movie maniacs out there, we present you Silver Screen, the ultimate movie mela! Watch all your favourite movies 24x7 in surround sound with your friends and partners.</string>
+    <string name="about_celeb">The most awaited stage event where the best of the Bollywood mesmerize us with their soulful performances. Effervescence proudly presents Celebrity night. Get ready for the ultimate experience with Neha Kakkar performing live at Effervescence\'15.</string>
+    <string name="about_edm">The sound of youth here. The bashy DJ night will take your enthusiasm and energy to an altogether new level. Effe presents you "The best party of the year" with DJ Aceaxe performing under the banner of VH1 Supersonic 101 Campus.</string>
+    <string name="about_djnight"></string>
+
+    <!--rules section-->
+    <string name="rules_anime">• Contestants are required to form a team of two in order to participate.
+  \n • There will one preliminary written round and five on stage rounds.\n </string>
+    <string name="rules_alamode">Will be updated soon.</string>
+    <string name="rules_antakshiri"> • The spoken parlor game returns to the fest of IIIT Allahabad EFFERVESCENCE\'15. Team up and enjoy the fun-filled competition.
+ \n• The event intends to put Antakshari into a new avatar by combining it with audio/visuals to make it much more interesting and competitive.
+ \n• Teams consist of two members each. Qualification rounds might be added to normalize the number of teams.
+ \n• All competition-related decisions are left to the discretion of the organizers.
+ \n• Multiple audio-visual round are held and the team scoring the maximum points is declared as the winner.</string>
+    <string name="rules_balloonfight">• Teams will consist of five members each.
+ \n• If any participant will cross the boundary circle, he/she will be disqualified and the team will have to continue with remaining players.
+ \n• If any player tries to use his/her hands then he will be disqualified from the team.
+ \n• If any player found using unfair means then whole team will be disqualified.
+ \n• The decision of the organisers will be final in all cases.</string>
+    <string name="rules_bindaasbol"> • Each team should have a minimum of 6 members and cannot exceed 15.
+ \n• The maximum performance time is 20 minute and minimum of 12 minutes
+ \n• Team is free to choose the theme on its own.
+ \n• Teams must bring all the costumes and props with them as the organizers will not provide anything. Only a few chairs and tables for stage setting may be provided.
+ \n• Teams can be subjected to negative marking on issues like use of abusive language, vulgarity etc. in the play.
+ \n• The drama can be bilingual. Usage of both English and Hindi is allowed.
+ \n• On the spot registrations are allowed but online Registrations are advisable.</string>
+    <string name="rules_blinddate"> • Participation is accepted as solo entry-for individuals (male/female) and also in couples.
+ \n• If you are single and want to try your luck, you are most welcome as we will choose a suitable partner for you in the 1st round.
+ \n• Couples can get direct entry into the 2nd round.
+ \n• On-spot registration applicable for the event.</string>
+    <string name="rules_bollywoodtambola"> • The participants should form a team of two.
+ \n• Negative marking would be there in last round.
+ \n• For second round 10 teams will be shortlisted and finals will be played between 5 teams.
+ \n• Use of unfair means will lead to disqualification</string>
+    <string name="rules_bookcricket"> • Each team should have 2 players.
+ \n• Each match will be of 5 overs and each team gets 10 wickets(wickets can be divided among teammates randomly).
+ \n• The runs are scored by flipping the book open at random and the last digit of the right-side (even-numbered) page is counted as the number of runs scored.Scoring pattern : 0 = Out]n2,4,6 = 2,4,6 runs respectively 8 = no-ball(no extra runs)Win a FREE HIT for scoring 3 sixes in a row!!</string>
+    <string name="rules_carpediem"> • Track should be preferably 2-3 minutes long.
+ \n• You may choose any dance form.
+ \n• There will be 2 rounds.
+ \n• Open for college students as well as academy students.
+ \n• Not for school students.</string>
+    <string name="rules_chinatown"> Guidelines for Games
+ \n• This is NOT a team participation. Each game will consist of 5-10 players.
+ \n• The games follows their own regular rules.
+ \n• If there are no dealers already present, any participant, while still playing the game, will get the chance to be the dealer.
+ \n• For an individual to play the game, he will have to buy in. Max and min buy-in amounts will announced only during the main event.
+ \n\n Guidelines for Bidding
+ \n• Events included : Ala Mode(Contestants or teams) , Street Soccer(teams and Best player), Gully cricket(teams), Gamer\'s Asylum(Fifa ,Counter Strike, Split Second)(teams), Roadies(contestant), Basketball(teams), Tug of War(teams boys/girls), treasure Hunt(teams).
+ \n• Minimum bid for all the events is Rs. 50
+ \n• Bidding for every event listed above will close 30 minutes before the start of the event or the first match of the team ( whichever case it may be ) .
+ \n• Profit earned by the winners of each event will be calculated using the relation:
+ \n• Profit = ((total collection of that event - total bidding by winners)/number of winners)x(0.9)
+ \n• Bid once made cannot be changed .
+ \n• In case of any conflicts, the decision of the organizers will be final.</string>
+    <string name="rules_cinemamash"> This is an online dubsmash event.</string>
+    <string name="rules_cognoscencia">Will be updated soon.</string>
+    <string name="rules_cricketquiz"> • The cricket quiz will consist of four rounds and will be a team event(2 members).
+ \n• First round will be MCQ based.
+ \n• In second round a set of images will be shown and questions will be asked related to the images.
+ \n• In third round there will be questions related to video clips.
+ \n• The last and the final round will be a surprise.
+ \n• Decision of the organizers will be final and binding.
+ \n• Use of mobile phones at the time of participation is not allowed.</string>
+    <string name="rules_dancecharades">Round 1- Difficulty level - Easy
+ \n• In this round each member of team has to perform.
+ \n• There will be 3 Categories of questions (Name of the Movie, Name of the actor, Name of the Song).
+ \n• Each member will get one of the category which will be decided by chits.
+ \n• In total one minute will be given to dance and guess the names.
+ \n• The teams guessing all the three will go to the next round.
+\n\nRound 2- Difficulty level - Medium
+ \n• In this Round any 2 of the members have to perform which they will choose among themselves.
+ \n• There will be 2 categories of questions (Latest Movies 2000-2015 and Old Classics 1980-2000).
+ \n• Member of the team will choose the categories among themselves.
+ \n• Each member will be given 20 seconds to think and 40 second to perform or in total 1 mins to think, perform and guess.
+ \n• The teams guessing both will go to the next round.
+\n\nRound 3-Difficulty level - Hard
+ \n• In this Round any member can perform.
+ \n• Questions will be miscellaneous in this round.
+ \n• It will be a rapid fire round where each team has to guess 5 performances of their team mate.
+ \n• Each team will be given 5 mins to guess all the 5 performances.
+ \n• Team which guess maximum performances taking minimum time will win.</string>
+    <string name="rules_directorscut">Online movie making competetion.</string>
+    <string name="rules_doubletrouble"> • Bring a pen along with you.
+ \n• Register in a pair
+ \n• Teams can be subjected to negative marking on issues like use of abusive language, vulgarity etc. in the play. </string>
+    <string name="rules_dumbcharades">Rules and Regulations:
+ \n• Decision of Judges will be final in all respects.
+ \n• Vulgarity will not be accepted.</string>
+    <string name="rules_feathers">Will be updated soon.</string>
+    <string name="rules_footloose"> • Each team should contain 15-20 members.
+ \n• The track should be within 7-10 minutes.
+ \n• You may choose any form or diversify with various forms.
+ \n• No props are allowed, if used marks will be deducted.
+ \n• Only college students are allowed to participate, you must bring your college ID alongwith you.
+ \n• No school students or academy students are allowed to participate.</string>
+    <string name="rules_gamersasylum"> Counter Strike 1.6
+\n Dota 2
+\n Split Second
+\n Fifa 15</string>
+    <string name="rules_grafitti"> • Maximum 3 participant(s) are allowed in a team.
+ \n• Contest will be divided in 2 rounds.
+ \n• In first round participant(s) have to draw the sketch in a sheet and submit it.
+ \n• Based on the judgments of first round only selected teams will be promoted for second round.</string>
+    <string name="rules_gullycricket">• Every teams must have 6 members.
+\n• Each match will be of 5 overs.
+\n• Three consecutive beats will be considered as OUT.
+\n• If the ball hits boundaries without taking a tip on the ground ,it will be considered as OUT.
+\n• NO balls and WIDE balls will be considered as Extras.
+\n• Positively four of your players should be bowling(at least one over each).
+\n• The height of the ball should be below chest.
+\n• There will be no run for byes.
+\n• Umpire’s decision will be considered as the last decision.
+\n• Rest other rules for scoring and run will be detailed at the venue.</string>
+    <string name="rules_incendiary">• Stage set up: bands will be given 5 minutes for set-up and 5 minutes for take-down. Each band has 20 minutes for their performance excluding set-up and take-down. Any additional set up needed will be deducted from your 20 minute set time.
+    \n• All selected bands must be present at least 2 hours prior to the start of event.
+    \n •The following stage equipment will be provided (anything needed but not listed below will have to be brought by the band itself):
+\n\t•	One standard five piece drum kit with Hi-hat and crash cymbals.
+\n\t•	 Cables, mics, monitors, speakers, lights etc.
+</string>
+    <string name="rules_innovation"> • Each team should have a minimum of 6 members and cannot exceed 20.
+ \n• The maximum performance time is 25 minutes \'curtain to curtain\' and minimum of 12 minutes.
+ \n• Team is free to choose the theme on its own.
+ \n• The drama can be bilingual. Usage of both English and Hindi is allowed.
+ \n• Negative marks will be awarded for both, exceeding time limit, and not completing the minimum time.
+ \n• Teams can be subjected to negative marking on issues like use of abusive language, vulgarity etc. in the play.
+ \n• Teams must bring all the costumes and props with them as the organizers will not provide anything. Only a few chairs and tables for stage setting may be provided.
+ \n• The background music and lighting is allowed and a system for the same is provided by the organizers.
+ \n• On the spot registrations (at least 4 hours prior to event ) are allowed but online registrations are advisable.
+ \n• Any miscellaneous last minute demands to the organizers should be made 48 Hours prior to the performance, any demands after that will not be entertained.</string>
+    <string name="rules_intuizone"> • Each team would consist of 2 members.
+ \n• The decisions of each and every team would be based on team consensus only.
+ \n• The participants are not allowed to discuss anything related to images or questions with other teams.
+ \n• In case of any issues the decision of the panel would be final and binding to all the participants.
+ \n• Initial round of elimination will be conducted for selecting the teams for the final round.
+ \n• Any unethical practice during the event will lead to immediate disqualification of the team.
+ \n• Use of any tangible object which is a property of IIITA is strictly prohibited without prior permission from event coordinators.
+ \n• Use of mobile phones or any electronic gadgets at the time of participation are not allowed.</string>
+    <string name="rules_kahaani"> • All the participants have to write a short script for a play as their entry
+ \n• Each scene should be explained properly in the script.
+ \n• Proper characterization should be done.
+ \n• Theme of the script should be made clear.</string>
+    <string name="rules_lightscamera"> • This is a two-days event including a number of interesting rounds.
+ \n• You can participate with a team of 2 members.
+ \n• If required, teams may be asked to make videos</string>
+    <string name="rules_lafranze">• Track should be preferably 2.5-4 minutes long.
+ \n• You may choose any dance form.
+ \n• There will be a single round.
+ \n• Open for college students as well as academy students.
+ \n• Not for school students.</string>
+    <string name="rules_karaoke">• A competitive music event to be held on the day of the effervescence.
+ \n• It is a form of interactive entertainment in which anyone can sing along with recorded music using a microphone with the lyrics.
+ \n• Participation can be individually or in a duet.
+ \n• Enthusiasts register and sing your heart out !</string>
+    <string name="rules_konquorer"> • The duration is of 18 hours.
+ \n• Registration is mandatory.
+ \n• Each correct answer takes you to the next level.
+ \n• There is no negative marking so "Keep Guessing".
+ \n• Every clue will lead you to a website or some specific word on that website.
+ \n• Any participant found indulging in unfair means will be disqualified immediately. The final discretion lies with the organisers.
+ \n• All answers will be in lowercase.
+ \n• If an answer consists of multiple words, write the answer without spaces between the words. For example, if an answer is “the lord of the rings”, then the answer will be written as “thelordoftherings”.
+ \n• If an answer contains numbers, each number has to be written separately. For example, if an answer is “786”, it will have to be written as “seveneightsix”.
+ \n• In case of a site having different forms as per nation, the Indian version would be considered.
+ \n• Hints will be provided time to time on our Facebook page.</string>
+    <string name="rules_mun">The first Edition of the IIITA MUN Conference will take place from 14 to 15 of October 2014 at the IIITA premises and will bring together over 200 participants from IIITA, as well as from 24+ Schools and colleges.</string>
+    <string name="rules_pannipuri"> • It is NOT a team game.
+ \n• The participant who eats maximum number of paanipuri in 1 minute wins the game.
+ \n• Prizes will be distributed for winner in every 15 slot, Grand prize will be given to the winner of game.
+ \n• In all cases, decision of organizers will be considered final.</string>
+    <string name="rules_perplexus">You sir , are the God of hacking? That’s great we would love to hear from you. But sadly, Perplexus Isn’t the right platform to showcase your hacking skills. Any Attempt towards the same would result in elimination :s Taken in the right spirit Perplexus promises to be fun and a great learning experience. So please, don’t spoil it by trying to cheat in the competition or indecent behavior. The organizer is a sadist, you ll know it well by the end. Any instance of cheating will be dealt with elimination(it’s so easy to get eliminated here :p) So, what constitutes cheating/indecent behavior?
+ \n• Pinging fellow contestants for answers/hints. For hints you may consult us using the forums and as far as the answers are concerned, seriously whats the point of participating in a treasure hunt if you want to get the answers served on a plate.
+ \n• Using abusive language in the forum
+ \n• Writing answers or spoilers in any form in the forum. If you feel like you need to confirm whether you are in the right direction towards solving the puzzle then simply do that without letting others know what’s on your mind.
+ \n• In case of any conflict or situation of ambiguity, The decision of the organizers is final and binding.
+ \n• The first one to solve all the 25 levels would be declared the winner and the contest will be closed there and then. However if no one completes the 25 levels in the stipulated time then the topper in the leader board would be declared as the winner
+ \n• In all there are 3 prizes to be won- 1st prize and 2 other prizes for whoever solves the 3 special pedestals first.
+ \n• And last but not the least , the golden rule: Mod is God.
+</string>
+    <string name="rules_photobooth"> • Register in groups of two or more to participate in the event.
+ \n• Entrants must have a valid contact number and email address.
+ \n• Incomplete, illegible, false, deceptive or garbled entries are not eligible.
+ \n• The registration links and a detailed list of rules and regulations will be floated soon for all you enthusiasts.
+ \n• The winners for Photobooth will solely depend on the decision of the judges.
+ \n• Judging will be based on your creativity and the audience reaction.</string>
+    <string name="rules_pillowfight">Will be updated soon.</string>
+    <string name="rules_platzen"> • All the participants need to register for the event in order to take part in it.
+ \n• Any participant found cheating will be disqualified immediately.
+ \n• Organizers decision shall be treated as final.</string>
+    <string name="rules_psychadelia"> • One of the prime Main stage events, that attracts some of the biggest crowds throughout EFFE.
+ \n• A non competitive band event ,featuring the best bands of IIIT A, bringing to stage some exquisite musical talents.
+ \n• Music for all, be it pop, progressive rock, hard rock, alternative rock, and some of the latest Bollywood numbers.</string>
+    <string name="rules_ranneeti"> • Team of three people
+ \n• Conducted in three rounds.
+ \n• All that u need to bring along is the competitive spirit :)</string>
+    <string name="rules_roadies"> •The selection of Roadies will be on the basis of Personal Interview.
+ \n• Certain tasks would have to be performed which will test you physically as well as mentally.
+ \n• The winner will be awarded suitable prizes (goodies or cash prize) to be announced later.
+ \n• From selecting a candidate to disqualifying him/her, every decision made by the judges would be final.</string>
+    <string name="rules_showoff"> •Contestants are required to shoot a video of their dance.
+ \n• Video can be of any of the following categories - solo, duet or group.
+ \n• The video in total must be between 2-5 minutes.
+ \n• The video must be of appropriate quality with clear music.
+ \n• The video must be uploaded on youtube and the link must be messaged to : www.facebook.com/effervescence.iiita
+ \n• The deadline for submission is 16-Oct-2015 11:59 pm (midnight).
+\n\nJudging Criteria
+ \n• The videos will be judged by members of Swag Gang Crew, Indance Nation, Delhi.
+Number of likes on the shared post of the video by the Effervescence Facebook page will also be considered.</string>
+    <string name="rules_stegolica"> • It will be an 8 hours event.
+ \n• There will be 15-20 questions. Each question will have some data which contains some hidden information. The data maybe an image, a video, an audio or anything. You need to find the information from this to answer the question.
+ \n• You can move the next question only after answering the present question.
+ \n• The one who completes all the questions the fastest will be the winner. And by fastest, I mean the average time of answering all the questions from the start of the event will be considered.
+ \n• In case of any discrepancies, the MOD’s decision will be final. Because here MOD is the GOD.</string>
+    <string name="rules_storypic"> • Stationary items will be provided ( Only pencil color will be provided for coloring if required ).
+ \n• The beauty of painting should reflect the story.
+ \n• Time limit 4 hours.</string>
+    <string name="rules_streetsoccer"> • Each team shall register a maximum of 6 players.
+ \n• Only 5 players per team are allowed in the playing pitch at any one time.
+ \n• There is no Goalkeeper .No one can touch a ball by hand.
+ \n• Each match shall consist of two 10 minute halves. Teams to change sides after the first half with play resuming immediately thereafter.
+ \n• One player always in attacking half.
+ \n• A foul will be awarded against a team if the whole team is in its own half. The 3rd repeated infraction results in a Penalty Kick.
+ \n• An interesting rule is Rolling substitution.
+ \n• There is no limit as to how many substitutions you can make without any permission from the referee.
+ \n• Any player from the starting 5 of a team can be substituted at any point of time in a match AND re-used/re-substituted in the game back again.
+ \n• The substituted player must leave the pitch before the replacement enters.
+ \n• Time-wasting When a team kick the ball out-of-field zone twice then the penalty will be awarded to the opposite team.
+ \n• If a match ends in a draw, then its decided by number of nutmegs. A team which did max. nutmeg to opposite team will win.
+ \n• If still the match ends in a draw, it is decided by a sudden-death penalty shoot-out.
+ \n• Maximum of 3 kicks per team will be taken.
+ \n• A penalty is to be taken from the penalty mark on the mid-point and ball should not touch the ground after kicking.
+ \n• Any forms of rough play e.g. tackling a player\'s feet, body-checks, pushing, tripping, etc. is strictly forbidden and one player is directly eliminated by ref.</string>
+    <string name="rules_thesketcher"> • Participant(s) have to draw the sketch and send the scanned copy or good quality photo of the sketch.
+ \n• Only 1 entry per contestant is allowed.
+ \n• Winner has to present the original sketch for verification.
+ \n• Points will be awarded on the basis of clarity of theme and number of likes in the uploaded pic of sketch.</string>
+    <string name="rules_tonguesonfire">Will be updated soon.</string>
+    <string name="rules_tooncon"> • Participants can bring their ideas in soft copy only. No hard copy is allowed.
+ \n• Colors will be provided on spot and if required participants can bring there own materials also.
+ \n• Time limit is 3 hours.</string>
+    <string name="rules_treasurehunt">Will be updated soon.</string>
+    <string name="rules_tugofwar"> • Each team can accommodate a maximum of 6 members plus one substitute
+ \n• Boys compete against the boys and girls against the girls.
+ \n• No amendments can be made after the team is registered i.e that particular team’s member cannot be changed.
+ \n• The teams will start pulling the rope into their territory on the command of the referee
+ \n• The center of the rope should align with the center marked on the ground
+ \n• If a member of the team falls down that member is given a caution. Each team is allowed two cautions before getting disqualified.
+ \n• There is a particular technique that needs to be applied while playing this game, if not then there will be a foul which can call in for disqualifications. For e.g. lowering your elbow below the knee level while pulling the rope is considered to be a foul and is called ‘locking’. Touching the ground for a longer period of time is also considered as a foul.</string>
+    <string name="rules_tvquiz"> • QUIZ WILL BE BASED ON THE FOLLOWING TV SERIES ONLY
+ \n    GAME OF THRONES
+ \n    BREAKING BAD
+ \n    FRIENDS
+ \n    BIG BANG THEORY
+ \n    (SURPRISE ENTRY TO BE REVEALED LATER)
+ \n• COME IN TEAM OF TWO WITH A FANCY TEAM NAME .
+ \n• WHOLE QUIZ WILL CONSIST OF A TOTAL OF 4 ROUND .
+ \n• ROUNDS WILL INCLUDE A WRITTEN QUALIFIER AND SUBSEQUENT ROUNDS WILL BE AUDIO, VISUAL AND MCQ.
+ \n• DECISION OF THE ORGANISERS WILL BE FINAL AND BINDING.</string>
+    <string name="rules_unplugged"> • Unplugged is one of the premier competitive events of Effervescence , it attracts various acoustic artists from all over the country.
+ \n• It is a band/solo event with the constraint of musical events falling to the unplugged category , i.e not being digitally amplified.
+ \n• Prize money will be awarded for various categories like best singer ,guitarist and overall performance.</string>
+    <string name="rules_tasveer">Themes for the event:
+ \n• BLACK and WHITE (B/W)
+ \n• STREET PHOTOGRAPHY
+ \n• SILHOUETTE
+ \n• It is a single round Online Event.
+ \n• Participants should mail their photographs with the theme.
+ \n• The photograph should be accompanied by a suitable Caption.
+ \n• The SUBJECT of your mail when sending entries should strictly be the "Theme Name".
+ \n• A participant is allowed to send Multiple entries per theme.
+ \n• Entries should be mailed to "ams.society@iiita.ac.in" and should include the following in the description:
+ \n• The caption
+ \n• Your College Name
+ \n• Participant Name</string>
+    <string name="rules_selfietime">Will be updated soon.</string>
+    <string name="rules_snapshot">RULES :
+\n • This event is open to all colleges with a limit of 3 entry per Categories.
+\n • Students from different colleges are also invited to participate in the event.
+\n • The picture should be saved as " Participant's College_Participant's Name.jpeg ".
+\n • Copyright :
+\n The copyright in all images submitted to the Competition will remain with the owner who will be credited.
+\n • There must not be any watermarks, copyright marks or any text/graphic on the picture.
+\n • Please limit your adjustment to minor changes of cropping, sharpening and contrast.
+\n • The participant should be ready with the original image when asked upon by the organisers.
+\n • The minimum resolution of the pictures should be 2000 pixels on the shorter side. However, images should not exceed 8 MB in size.
+\n • Stitched panoramas are allowed.
+\n • Plagiarism should be strictly avoided and such photographs shall be immediately disqualified from the competition.
+\n • A participant is allowed a maximum of 9 entries (3 entry per theme).
+\n • Each categories will have its own individual winner. Overall, there will be 3 separate winners per day.
+\n • The decision of the organizers shall be final and binding on all contestants.</string>
+    <string name="rules_admania">1) The selection will be done on the basis of knowledge of ads and your creativity to advertise your own products.
+\n 2) Participants should form a team of two members.
+\n 3) There will be 3 rounds:
+\n \t > ROUND I : This will be a buzzer round. You need to answer some questions based on the ads
+\n \t > ROUND II: This will comprise of an audio and visual round.
+\n \t > ROUND III: Here you need to advertise any given random product within at most 1 minute .
+\n 4) The winner will be awarded suitable prizes which will be announced later.
+\n 5) Any decision made by the judges during the contest will be taken as final.</string>
+    <string name="rules_bquiz"> • Team must consist of 3 members.
+ \n• Participant must have their University ‘I card’.
+ \n• Any use of electronic gadgets is strictly prohibited.</string>
+    <string name="rules_basketball"> • Each team should have exactly 3 players.
+ \n• Total playing time will be 10 minutes(2 halves of 5 minutes each).
+ \n• There will be a break of 2 minutes in between.
+ \n• Each basket will be counted as one point.
+ \n• For every Personal Foul by a team,opposite team will be awarded a free throw.
+ \n• After a made goal or free throw (except for technical or unsportsmanlike fouls and team fouls 10 or more),play restarts with a player from the non-scoring team taking the ball directly under the basket and then dribbling or passing it to a point behind the arc. The defense is not allowed to play for the ball inside the block/charge semi-circle under the basket.
+ \n• In case of a tie, free throws will be provided.
+ \n• Team members are required to wear same colour T-shirts.
+ \n• Shoes are compulsory.
+ \n• Each team is required to report 10 minutes prior to their match.</string>
+    <string name="rules_armwrestling"> • The competitors shoulders must be square to the table before the match is started.
+ \n• The competitors shoulders may not be less than a fist distance away from their hands at the start.
+ \n• All starts will be a \'Ready.....Go\' . The cadence will vary.
+ \n• All participants have to put their elbow inside a circle made on the table.
+ \n• For a match there are maximum of three rounds - 1st , 2nd and final round (if there is a draw).
+ \n• For two participants with different strong hands there will be max two rounds . Who wins in less time will be winner.
+ \n• Judges decision will be final.</string>
+    <string name="rules_silver">Will be updated soon.</string>
+    <string name="rules_celeb">No rules.</string>
+    <string name="rules_edm">No rules.</string>
+    <string name="rules_djnight">No rules.</string>
+    <string name="title_activity_developers">Developers</string>
+    <string name="title_activity_sponsors">Sponsors</string>
+
+</resources>

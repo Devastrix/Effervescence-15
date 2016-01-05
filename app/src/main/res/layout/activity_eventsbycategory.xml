@@ -1,0 +1,259 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="effe.devastrix.com.effervescencemmxv.Eventsbycategory">
+
+    <include android:id="@+id/app_bar"
+        layout="@layout/app_bar"/>
+
+    <View
+        android:layout_below="@+id/app_bar"
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:id="@+id/shadow"
+        android:background="@drawable/toolbar_shadow" />
+
+    <!--<android.support.v7.widget.RecyclerView-->
+        <!--android:id="@+id/categoryList"-->
+        <!--android:layout_below="@+id/shadow"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!-->-->
+
+    <!--</android.support.v7.widget.RecyclerView>-->
+
+    <ScrollView
+        android:layout_marginTop="10dp"
+        android:id="@+id/scroll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/shadow">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@mipmap/whiteback"
+        >
+        <LinearLayout
+            android:id="@+id/dance"
+            android:orientation="horizontal"
+            android:gravity="end|center_vertical"
+            android:padding="5dp"
+            android:layout_marginRight="80dp"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:weightSum="10"
+            android:background="@color/primaryColorDark"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src = "@mipmap/dance"
+                android:layout_weight="2"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" Dance "
+                android:typeface="serif"
+                android:textSize="25sp"
+                android:gravity="center"
+                android:layout_weight="8"
+                android:textColor="@android:color/white"
+                android:id="@+id/tvdance"/>
+            />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/music"
+            android:orientation="horizontal"
+            android:gravity="start|center_vertical"
+            android:padding="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="80dp"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="@color/primaryColorDark">
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src = "@mipmap/music"
+                android:layout_weight="2"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" Music "
+                android:typeface="serif"
+                android:textSize="25sp"
+                android:gravity="center"
+                android:layout_weight="8"
+                android:textColor="@android:color/white"
+                android:id="@+id/tvmusic"/>
+           />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/drama"
+            android:orientation="horizontal"
+            android:gravity="end|center_vertical"
+            android:padding="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="80dp"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="@color/primaryColorDark">
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src = "@mipmap/drama"
+                android:layout_weight="2"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" Drama "
+                android:typeface="serif"
+                android:textSize="25sp"
+                android:gravity="center"
+                android:layout_weight="8"
+                android:textColor="@android:color/white"
+                android:id="@+id/tvdrama"/>
+            />
+    </LinearLayout>
+        <LinearLayout
+            android:id="@+id/ams"
+            android:orientation="horizontal"
+            android:gravity="start|center_vertical"
+            android:padding="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="80dp"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="@color/primaryColorDark">
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src = "@mipmap/ams"
+                android:layout_weight="2"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" Photography "
+                android:typeface="serif"
+                android:textSize="25sp"
+                android:gravity="center"
+                android:layout_weight="8"
+                android:textColor="@android:color/white"
+                android:id="@+id/tvphoto"/>
+           />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/lit"
+            android:orientation="horizontal"
+            android:gravity="end|center_vertical"
+            android:padding="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="80dp"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="@color/primaryColorDark">
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src = "@mipmap/lit"
+                android:layout_weight="2"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" Literary "
+                android:typeface="serif"
+                android:textSize="25sp"
+                android:gravity="center"
+                android:layout_weight="8"
+                android:textColor="@android:color/white"
+                android:id="@+id/tvlit"/>
+           />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/informals"
+            android:orientation="horizontal"
+            android:gravity="start|center_vertical"
+            android:padding="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="80dp"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="@color/primaryColorDark">
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src = "@mipmap/informals"
+                android:layout_weight="2"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" Informals "
+                android:typeface="serif"
+                android:textSize="25sp"
+                android:gravity="center"
+                android:layout_weight="8"
+                android:textColor="@android:color/white"
+                android:id="@+id/tvinf"/>
+            />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/online"
+            android:orientation="horizontal"
+            android:gravity="end|center_vertical"
+            android:padding="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="80dp"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="@color/primaryColorDark">
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src = "@mipmap/online"
+                android:layout_weight="2"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" Online "
+                android:typeface="serif"
+                android:textSize="25sp"
+                android:gravity="center"
+                android:layout_weight="8"
+                android:textColor="@android:color/white"
+                android:id="@+id/tvonline"/>
+           />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/finearts"
+            android:orientation="horizontal"
+            android:gravity="start|center_vertical"
+            android:padding="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="80dp"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="@color/primaryColorDark">
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src = "@mipmap/fine"
+                android:layout_weight="2"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" Finearts "
+                android:typeface="serif"
+                android:textSize="25sp"
+                android:gravity="center"
+                android:layout_weight="8"
+                android:textColor="@android:color/white"
+                android:id="@+id/tvfine"/>
+           />
+        </LinearLayout>
+    </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

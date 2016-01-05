@@ -1,0 +1,181 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="effe.devastrix.com.effervescencemmxv.Effervescence">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/SplashImageView"
+        android:layout_gravity="center"
+        >
+    </ImageView>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+
+        android:padding="10dp">
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textSize="25sp"
+            android:layout_marginLeft="45dp"
+            android:layout_marginStart="100dp"
+            android:visibility="invisible"
+            android:textColor="#FFFFFF"
+            android:id="@+id/magicText1"
+            />
+        <TextView
+            android:visibility="invisible"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textSize="25sp"
+
+            android:textColor="#FFFFFF"
+            android:id="@+id/magicText2"
+            />
+        <TextView
+            android:visibility="invisible"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textSize="25sp"
+
+            android:textColor="#FFFFFF"
+            android:id="@+id/magicText3"
+            />
+        <TextView
+            android:visibility="invisible"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textSize="25sp"
+
+            android:textColor="#FFFFFF"
+            android:id="@+id/magicText4"
+            />
+        <TextView
+            android:visibility="invisible"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textSize="25sp"
+
+            android:textColor="#FFFFFF"
+            android:id="@+id/magicText5"
+            />
+        <TextView
+            android:visibility="invisible"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textSize="25sp"
+
+            android:textColor="#FFFFFF"
+            android:id="@+id/magicText6"
+            />
+        <TextView
+            android:visibility="invisible"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textSize="25sp"
+
+            android:textColor="#FFFFFF"
+            android:id="@+id/magicText7"
+            />
+        <TextView
+            android:visibility="invisible"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textSize="25sp"
+
+            android:textColor="#FFFFFF"
+            android:id="@+id/magicText8"
+            />
+        <TextView
+            android:visibility="invisible"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textSize="25sp"
+
+            android:textColor="#FFFFFF"
+            android:id="@+id/magicText9"
+            />
+        <TextView
+            android:visibility="invisible"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textSize="25sp"
+
+            android:textColor="#FFFFFF"
+            android:id="@+id/magicText10"
+            />
+        <TextView
+            android:visibility="invisible"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textSize="25sp"
+
+            android:textColor="#FFFFFF"
+            android:id="@+id/magicText11"
+            />
+        <TextView
+            android:visibility="invisible"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textSize="25sp"
+
+            android:textColor="#FFFFFF"
+            android:id="@+id/magicText12"
+            />
+        <TextView
+            android:visibility="invisible"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textSize="25sp"
+
+            android:textColor="#FFFFFF"
+            android:id="@+id/magicText13"
+            />
+        <TextView
+            android:visibility="invisible"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textSize="25sp"
+
+            android:textColor="#FFFFFF"
+            android:id="@+id/magicText14"
+            />
+        <TextView
+            android:visibility="invisible"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textSize="25sp"
+
+            android:textColor="#FFFFFF"
+            android:id="@+id/magicText15"
+            />
+    </LinearLayout>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:id="@+id/imagesplash"
+        android:src="@mipmap/splashlogo"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="#The_Motion_Picture"
+        android:textSize="25sp"
+        android:visibility="invisible"
+        android:id="@+id/motionP"
+        android:textColor="#FFFFFF"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="150dp" />
+
+
+</RelativeLayout>

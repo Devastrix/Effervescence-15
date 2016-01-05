@@ -1,0 +1,7 @@
+C:\Users\user\Downloads\EffervescenceMMXV\sample\build\intermediates\classes\debug
+C:\Users\user\Downloads\EffervescenceMMXV\sample\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-85aa9480354401716a93b131fc205e77925d4407.jar
+C:\Users\user\Downloads\EffervescenceMMXV\sample\build\intermediates\pre-dexed\debug\classes-ce967a5647b860e8010ec3f0d4a485eff5eedaae.jar
+C:\Users\user\Downloads\EffervescenceMMXV\sample\build\intermediates\pre-dexed\debug\classes-385ee63601b800f126e6aeee75828258f9b05726.jar
+C:\Users\user\Downloads\EffervescenceMMXV\sample\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-f939222b70ebe66288039e064466a6563668f4c3.jar
+C:\Users\user\Downloads\EffervescenceMMXV\sample\build\intermediates\pre-dexed\debug\classes-f8aa67ccb9189f44479ebdc4ecf5b31194fbd102.jar
+C:\Users\user\Downloads\EffervescenceMMXV\sample\build\intermediates\pre-dexed\debug\classes-e0771986fd0603f436a5537637b01ae5ad32ea81.jar

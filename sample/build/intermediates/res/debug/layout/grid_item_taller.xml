@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/text"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/grid_item_taller_height"
+    android:gravity="center"
+    android:padding="8dp"
+    android:minHeight="@dimen/grid_item_taller_height"
+    android:textColor="@android:color/black"/><!-- From: file:/C:/Users/user/Downloads/Effe_22.9/EffervescenceMMXV/sample/src/main/res/layout/grid_item_taller.xml -->

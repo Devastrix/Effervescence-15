@@ -1,0 +1,85 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="effe.devastrix.com.effervescencemmxv.About">
+
+    <include android:id="@+id/app_bar"
+        layout="@layout/app_bar"/>
+
+    <View
+        android:layout_below="@+id/app_bar"
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:id="@+id/shadow"
+        android:background="@drawable/toolbar_shadow" />
+    <TextView
+       android:id="@+id/about"
+        android:layout_below="@+id/shadow"
+        android:layout_marginTop="3dp"
+        android:gravity="center"
+        android:padding="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text = "About Us"
+        android:textSize="30sp"/>
+    <ScrollView
+        android:id="@+id/scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/about"
+
+        android:layout_above="@+id/linearLayout">
+        <TextView
+            android:id="@+id/content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/abouteffe"
+            android:gravity="center"
+            android:padding="15dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"/>
+        </ScrollView>
+    <View
+        android:layout_below="@+id/scrollview"
+        android:layout_marginBottom="-3dp"
+
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:id="@+id/upshadow"
+        android:background="@drawable/up_shadow" />
+    <LinearLayout
+        android:layout_marginTop="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="15dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/linearLayout"
+        android:gravity="center_horizontal">
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@mipmap/facebook"
+            android:layout_marginRight="20dp"/>
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@mipmap/twitter"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"/>
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@mipmap/online"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"/>
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@mipmap/c_informal"
+            android:layout_marginLeft="20dp"/>
+        </LinearLayout>
+
+</RelativeLayout>
